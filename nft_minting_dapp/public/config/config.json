@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6627c6DBF8981a0d6f0CB4fcDf0356c0a801e563",
+  "SCAN_LINK": "https://etherscan.io/address/0x6627c6DBF8981a0d6f0CB4fcDf0356c0a801e563",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "The Cheetah Country Club",
+  "SYMBOL": "CCC",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-cheetah-country-club",
+  "SHOW_BACKGROUND": false
+}
